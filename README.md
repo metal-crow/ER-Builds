@@ -14,3 +14,4 @@ For research purposes only. See [SteamDB](https://steamdb.info/app/1245620) for 
  * **v1.03.1** - 2022-03-19  
  * **v1.03.2** - 2022-03-23  
  * **v1.04.0** - 2022-04-19  
+ * **v1.04.1** - 2022-04-27  
